@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 </div> 
   
 <h4>  
-<p>-👨‍🎓 Estudante em Ciência da Computação, atualmente cursando o 4° Período.
+<p>-👨‍🎓 Estudante em Ciência da Computação, atualmente cursando o 5° Período.
 <p>-🎯 Interesses: Java, Spring Boot, MicroServices, Docker.
 <p>-🎮 Gosta de jogar jogos Cooperativos.
   </h4>
