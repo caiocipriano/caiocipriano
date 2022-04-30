@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
   
 <h4>  
 <p>-👨‍🎓 Student in Computer Science, currently attending the 5th period.
-<p>-💻 I participate in the Java Academy by Fuctura Tecnologia
+<!--<p>-💻 I participate in the Java Academy by Fuctura Tecnologia-->
 <!--<p>-🎯 Interests: Java, Spring Boot, MicroServices, Docker.-->
 <p>-🎮 Enjoys playing Co-op games.
   </h4>
