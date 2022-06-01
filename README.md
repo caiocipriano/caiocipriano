@@ -3,7 +3,6 @@ ciprianorepository2/ciprianorepository2 is a ✨ special ✨ repository because 
 You can click the Preview link to take a look at your changes.
 --->
 <h2>Hi, I'm Caio!
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
     </h2>
     
 <div>
