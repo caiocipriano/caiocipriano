@@ -1,8 +1,6 @@
 <h2>Hi, I'm Caio!</h2>
 <div>
   <a href="https://github.com/caiocipriano">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=caiocipriano&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-     &nbsp;
 </div> 
   
 <h4>  
